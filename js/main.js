@@ -1,1 +1,0 @@
-console.log('Painel BelaThon carregado');
